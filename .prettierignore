@@ -1,3 +1,5 @@
 pnpm-lock.yaml
 coverage
 drizzle/meta
+# Cópia idêntica do contrato da API Java.
+openapi.yaml
